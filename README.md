@@ -1,6 +1,6 @@
-# Python for Data Science and AI — Coursera
+# IBM Python for Data Science, AI & Development
 
-This repository documents my coursework as I study Python for Data Science and AI on Coursera. I am taking this course as part of my learning path toward earning a professional certificate in Data Science.
+This repository documents my coursework as I study IBM's Python for Data Science, AI & Development course on Coursera. I am taking this course as part of my learning path toward earning a professional certificate in Data Science.
 
 ## Course Description
 
